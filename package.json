@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/node": "^22.13.0",
+    "bun": "^1.2.2",
     "discord.js-selfbot-v13": "^3.5.1"
   }
 }
